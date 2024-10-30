@@ -1,4 +1,3 @@
-```markdown
 # SQL Query Assistant with Gemini AI
 
 A Streamlit-based web application that converts natural language questions into SQL queries using Google's Gemini AI model. The application allows users to query a SQLite database using simple English questions.
@@ -24,7 +23,7 @@ Before running this application, make sure you have the following:
       CLASS TEXT,
       SECTION TEXT
   );
-  ```
+
 
 ---
 
